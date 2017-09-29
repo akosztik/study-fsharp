@@ -10,86 +10,86 @@ https://www.youtube.com/watch?v=2t9hscg-HCo
 course: http://people.inf.elte.hu/gaiuaai/fsharp-2015-2016-2/
 
 
-1.-2.gyak jegyzetek:
+1.-2.gyak jegyzetek:  
 -----------------------
-MS build, fsharp, dot net -- ms code
-visual: ionide fsharp
+MS build, fsharp, dot net -- ms code  
+visual: ionide fsharp  
 
-immutabilitas
+immutabilitas  
 
-list arr seq
+list arr seq  
 
-val cubic : seq<int>
-/típus olyan seq amiben intek vannak, generikus param:seq<'T>)
-val cubicCalc : int ->int
-val seq.intInfinitite: (int-> T')-> seq<'T>
+val cubic : seq<int>    
+/típus olyan seq amiben intek vannak, generikus param:seq<'T>)  
+val cubicCalc : int ->int  
+val seq.intInfinitite: (int-> T')-> seq<'T>  
 
-fsharp script
-ALT+ENT interactive
+fsharp script  
+ALT+ENT interactive  
 
-option<T>
-None és some ág különböző értékekkel térhet vissza.
-patternmatch
+option<T>  
+None és some ág különböző értékekkel térhet vissza.  
+patternmatch  
 
-mutable( ne használjunk)
+mutable( ne használjunk)  
 
-|>  
-add4 5=> (add 4)5 =add 4 5
-partiális függvény alkalmazás:
-((4param a)b)c)d
-ua mint: (4paramab)cd
+|>    
+add4 5=> (add 4)5 =add 4 5  
+partiális függvény alkalmazás:  
+((4param a)b)c)d  
+ua mint: (4paramab)cd   
 
-let sum=
-  6
-  |>add 5
-  |>add 4
+let sum=  
+  6  
+  |>add 5  
+  |>add 4  
 
-let sum= add4(add 5 6)
-let list=["ALMA";"PEARS"]
+let sum= add4(add 5 6)  
+let list=["ALMA";"PEARS"]  
 
--forward pipeolás:
+-forward pipeolás:  
 
-list.map: ('T->'U)->'T list ->'U list
+list.map: ('T->'U)->'T list ->'U list  
 
-let result=
-  List.map(fun (str:string) -> str.length) list
-let maprestult=
-  list
-  |>List.map(fun str->str.length)         -> azért mert egyébként nem tudná hogy string csak a list-ből tudja.
-let mapresshort=
-  List.map String.length list
-//List.map (fun str->String.length str) list
+let result=  
+  List.map(fun (str:string) -> str.length) list  
+let maprestult=  
+  list  
+  |>List.map(fun str->str.length)          -> azért mert egyébként nem tudná hogy string csak a list-ből tudja.  
+let mapresshort=  
+  List.map String.length list  
+//List.map (fun str->String.length str) list  
 
-ajánlott:
-project euler
-hackerrank
+ajánlott:  
+project euler  
+hackerrank  
 
-[F#] taggel e-mailben a beadandók.
+[F#] taggel e-mailben a beadandók.  
 
-List.iter
+List.iter  
 
-List.fold()
-let aalist=[1;2;3;4]
-let aaasum= List.sum aalist
-let aasum'=
-  aalist
-  |>List.fold( fun s t -> s+t)
+List.fold()  
+let aalist=[1;2;3;4]  
+let aaasum= List.sum aalist  
+let aasum'=  
+  aalist  
+  |>List.fold( fun s t -> s+t)  
   
-       list     s               i
- [1;2;3;4]      0                  -1
+       list     s               i  
+ [1;2;3;4]      0                  -1  
  
-  [ 2;3;4]     0+1                  0
+  [ 2;3;4]     0+1                  0  
   
-  [3;4]        (0+1)+2              1
-  4           ((0+1)+2 )+3          2
-  []          ( ((0+1)+2 )+3)+4     3
-  
-                  10
-                  
-  seq.unfold  -> ahogy a fib fv.
-  
-  head , tail fv listákon
-  tryhead -> optionnal tér vissza
+  [3;4]        (0+1)+2              1  
+  4           ((0+1)+2 )+3          2  
+  []          ( ((0+1)+2 )+3)+4     3  
+    
+                  10  
+                    
+  seq.unfold  -> ahogy a fib fv.  
+    
+  head , tail fv listákon  
+  tryhead -> optionnal tér vissza  
   
  
   
