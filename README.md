@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=2t9hscg-HCo
 course: http://people.inf.elte.hu/gaiuaai/fsharp-2015-2016-2/
 
 
-1.gyak jegyzetek:
+1.-2.gyak jegyzetek:
 -----------------------
 MS build, fsharp, dot net -- ms code
 visual: ionide fsharp
@@ -32,3 +32,38 @@ None és some ág különböző értékekkel térhet vissza.
 patternmatch
 
 mutable( ne használjunk)
+
+|>  
+add4 5=> (add 4)5 =add 4 5
+partiális függvény alkalmazás:
+((4param a)b)c)d
+ua mint: (4paramab)cd
+
+let sum=
+  6
+  |>add 5
+  |>add 4
+
+let sum= add4(add 5 6)
+let list=["ALMA";"PEARS"]
+
+-forward pipeolás:
+
+list.map: ('T->'U)->'T list ->'U list
+
+let result=
+  List.map(fun (str:string) -> str.length) list
+let maprestult=
+  list
+  |>List.map(fun str->str.length)  ----------> azért mert egyébként nem tudná hogy string csak a list-ből tudja.
+let mapresshort=
+  List.map String.length list
+//List.map (fun str->String.length str) list
+-----------------
+project euler
+hackerrank
+---------------
+[F#] taggel e-mailben a beadandók.
+
+
+
