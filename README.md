@@ -7,7 +7,17 @@ https://www.youtube.com/watch?v=2XQ5agOzSBo
 https://www.youtube.com/watch?v=2t9hscg-HCo
 
 
-course: http://people.inf.elte.hu/gaiuaai/fsharp-2015-2016-2/
+course, nem az idei: http://people.inf.elte.hu/gaiuaai/fsharp-2015-2016-2/
+
+a helyes itt található: http://people.inf.elte.hu/jooseppi/fsharp/
+
+beadandó 1.:   
+Írjunk egy olyan függvényt, ami a Collatz szekvenciát számolja ki végtelenségig. A függvény paramétere legyen a kezdő szám. Outputja pedig legyen a számból kiinduló szekvencia. Ha elértük az 1-et, akkor termináljon a szekvencia. Például 5-re az alábbit állítsa elő: [5, 16, 8, 4, 2, 1]. Hint : Órai fibonacci példa  
+https://en.wikipedia.org/wiki/Collatz_conjecture  
+
+
+
+
 
 
 1.-2.gyak jegyzetek:  
