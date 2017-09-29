@@ -55,15 +55,42 @@ let result=
   List.map(fun (str:string) -> str.length) list
 let maprestult=
   list
-  |>List.map(fun str->str.length)  ----------> azért mert egyébként nem tudná hogy string csak a list-ből tudja.
+  |>List.map(fun str->str.length)         -> azért mert egyébként nem tudná hogy string csak a list-ből tudja.
 let mapresshort=
   List.map String.length list
 //List.map (fun str->String.length str) list
------------------
+
+ajánlott:
 project euler
 hackerrank
----------------
+
 [F#] taggel e-mailben a beadandók.
 
+List.iter
 
+List.fold()
+let aalist=[1;2;3;4]
+let aaasum= List.sum aalist
+let aasum'=
+  aalist
+  |>List.fold( fun s t -> s+t)
+  
+       list     s               i
+ [1;2;3;4]      0                  -1
+ 
+  [ 2;3;4]     0+1                  0
+  
+  [3;4]        (0+1)+2              1
+  4           ((0+1)+2 )+3          2
+  []          ( ((0+1)+2 )+3)+4     3
+  
+                  10
+                  
+  seq.unfold  -> ahogy a fib fv.
+  
+  head , tail fv listákon
+  tryhead -> optionnal tér vissza
+  
+ 
+  
 
