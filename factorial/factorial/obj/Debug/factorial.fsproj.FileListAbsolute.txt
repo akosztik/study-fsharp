@@ -1,0 +1,10 @@
+c:\users\koauaai\source\repos\factorial\factorial\bin\Debug\factorial.exe.config
+c:\users\koauaai\source\repos\factorial\factorial\bin\Debug\factorial.XML
+c:\users\koauaai\source\repos\factorial\factorial\bin\Debug\factorial.exe
+c:\users\koauaai\source\repos\factorial\factorial\bin\Debug\factorial.pdb
+c:\users\koauaai\source\repos\factorial\factorial\bin\Debug\FSharp.Core.dll
+c:\users\koauaai\source\repos\factorial\factorial\bin\Debug\System.ValueTuple.dll
+c:\users\koauaai\source\repos\factorial\factorial\bin\Debug\FSharp.Core.xml
+c:\users\koauaai\source\repos\factorial\factorial\obj\Debug\factorial.fsproj.CoreCompileInputs.cache
+c:\users\koauaai\source\repos\factorial\factorial\obj\Debug\factorial.exe
+c:\users\koauaai\source\repos\factorial\factorial\obj\Debug\factorial.pdb
