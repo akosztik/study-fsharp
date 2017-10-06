@@ -1,0 +1,10 @@
+c:\users\koauaai\source\repos\collatz\collatz\bin\Debug\collatz.exe.config
+c:\users\koauaai\source\repos\collatz\collatz\bin\Debug\collatz.XML
+c:\users\koauaai\source\repos\collatz\collatz\bin\Debug\collatz.exe
+c:\users\koauaai\source\repos\collatz\collatz\bin\Debug\collatz.pdb
+c:\users\koauaai\source\repos\collatz\collatz\bin\Debug\FSharp.Core.dll
+c:\users\koauaai\source\repos\collatz\collatz\bin\Debug\System.ValueTuple.dll
+c:\users\koauaai\source\repos\collatz\collatz\bin\Debug\FSharp.Core.xml
+c:\users\koauaai\source\repos\collatz\collatz\obj\Debug\collatz.fsproj.CoreCompileInputs.cache
+c:\users\koauaai\source\repos\collatz\collatz\obj\Debug\collatz.exe
+c:\users\koauaai\source\repos\collatz\collatz\obj\Debug\collatz.pdb
