@@ -10,8 +10,9 @@ let main argv =
         if i % 2 = 0 then Some(i, i / 2) else Some(i, 3 * i + 1)) n
         
 
-    let aCollatzSeq = collatz 6 |> Seq.takeWhile (fun n -> n <> 1) 
-    printfn "%A" (Seq.toList aCollatzSeq)
+    let collatzS = collatz 6 |> Seq.takeWhile (fun n -> n>1 ) 
+    let collatzSeq = [1] |> Seq.append collatzS
+    printfn "%A" (Seq.toList collatzSeq)
    
 
     0 // return an integer exit code

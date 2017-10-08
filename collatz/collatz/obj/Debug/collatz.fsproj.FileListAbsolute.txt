@@ -8,3 +8,12 @@ c:\users\koauaai\source\repos\collatz\collatz\bin\Debug\FSharp.Core.xml
 c:\users\koauaai\source\repos\collatz\collatz\obj\Debug\collatz.fsproj.CoreCompileInputs.cache
 c:\users\koauaai\source\repos\collatz\collatz\obj\Debug\collatz.exe
 c:\users\koauaai\source\repos\collatz\collatz\obj\Debug\collatz.pdb
+C:\Users\anett.kosztik.ext\study-fsharp\collatz\collatz\bin\Debug\collatz.XML
+C:\Users\anett.kosztik.ext\study-fsharp\collatz\collatz\obj\Debug\collatz.fsproj.CoreCompileInputs.cache
+C:\Users\anett.kosztik.ext\study-fsharp\collatz\collatz\obj\Debug\collatz.exe
+C:\Users\anett.kosztik.ext\study-fsharp\collatz\collatz\obj\Debug\collatz.pdb
+C:\Users\anett.kosztik.ext\study-fsharp\collatz\collatz\bin\Debug\collatz.exe.config
+C:\Users\anett.kosztik.ext\study-fsharp\collatz\collatz\bin\Debug\collatz.exe
+C:\Users\anett.kosztik.ext\study-fsharp\collatz\collatz\bin\Debug\collatz.pdb
+C:\Users\anett.kosztik.ext\study-fsharp\collatz\collatz\bin\Debug\FSharp.Core.dll
+C:\Users\anett.kosztik.ext\study-fsharp\collatz\collatz\bin\Debug\FSharp.Core.xml
