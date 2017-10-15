@@ -15,6 +15,10 @@ beadandó 1.:
 Írjunk egy olyan függvényt, ami a Collatz szekvenciát számolja ki végtelenségig. A függvény paramétere legyen a kezdő szám. Outputja pedig legyen a számból kiinduló szekvencia. Ha elértük az 1-et, akkor termináljon a szekvencia. Például 5-re az alábbit állítsa elő: [5, 16, 8, 4, 2, 1]. Hint : Órai fibonacci példa  
 https://en.wikipedia.org/wiki/Collatz_conjecture  
 
+beadandó 2.:  
+Írjuk meg az előző beadandót (Collatz) rekurzív függvény segítségével.
+A beadandó határideje: 2017-10-18.
+
 
 
 
