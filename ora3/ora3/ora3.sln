@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ora3", "ora3\ora3.fsproj", "{11969731-2C57-4981-A8DD-8884B93B9DD7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Library1", "Library1\Library1.fsproj", "{4B71C2BB-904B-4AE4-AE7C-2123DF4ADA59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11969731-2C57-4981-A8DD-8884B93B9DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11969731-2C57-4981-A8DD-8884B93B9DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11969731-2C57-4981-A8DD-8884B93B9DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11969731-2C57-4981-A8DD-8884B93B9DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B71C2BB-904B-4AE4-AE7C-2123DF4ADA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B71C2BB-904B-4AE4-AE7C-2123DF4ADA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B71C2BB-904B-4AE4-AE7C-2123DF4ADA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B71C2BB-904B-4AE4-AE7C-2123DF4ADA59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9CB3F01-1635-4E60-916B-004E4EDFCC7C}
+	EndGlobalSection
+EndGlobal
