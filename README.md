@@ -103,8 +103,37 @@ let aasum'=
   seq.unfold  -> ahogy a fib fv.  
     
   head , tail fv listákon  
-  tryhead -> optionnal tér vissza  
+  tryhead -> optionnal tér vissza     
   
- 
+  
+webes.gyak jegyzetek: 
+-----------------------   
+
+https://kimsereyblog.blogspot.hu/2017/02/use-local-storage-with-listmodel-with.html   
+
+https://websharper.com/  
+
+single page webapplication    
+https://forums.websharper.com/blog/77308   
+
+https://try.websharper.com/
+
+Listmodel bővitése localstoregos tárolással és , hozzáadás mellett hibas nev re warning, illetve törlés a listmodellből.
+
+https://try.websharper.com/embed/qwe2/000078
+
+dinamicstyle fv
+kettős pipe operator: joinos megoldás pl view-view--> view
+(tuple -->2 paramétert csinál)
+
+reactive ListModel: dinamikusan változó ui ért
+
+-->randomszám generálás , úgy hogy mindegyik unic
+-->activereognizer definiálásával: patternmatch (arra hogy milyen sorokat sikerült találnia, póker)
+
+
+
+
+
   
 
