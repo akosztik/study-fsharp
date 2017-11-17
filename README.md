@@ -132,6 +132,21 @@ reactive ListModel: dinamikusan változó ui ért
 -->activereognizer definiálásával: patternmatch (arra hogy milyen sorokat sikerült találnia, póker)
 
 
+sweetalert, js kezelése f#-ban 
+inline, Index.Template.
+$global.swal($str)
+
+Extensionként kezeli: ha main: module Definition --> Class Sweetalert def. typedef hez adunk fv-eket: +>, and after adding class to namespace
+
+if console log --> check console
+optional tipus: !?T<string>
+  
+  insert resourse into assembly
+
+https://developers.websharper.com/docs/wig
+
+https://developers.websharper.com/docs  
+
 
 
 
