@@ -19,10 +19,15 @@ beadandó 2.:
 Írjuk meg az előző beadandót (Collatz) rekurzív függvény segítségével.
 A beadandó határideje: 2017-10-18.
 
+-------------------------------------  
 
-
-
-
+ 
+Az oldalt átköltöztettem ide: http://education.jooseppi.net/
+ 
+Ennek oka, a pandora szervének instabil elérése, mostantól ezt az oldalt frissítem (még a mai nap folyamán is várható több frissítés az oldalra)
+ 
+Ki van írva két új beadandó a Beadandók szekció alatt (3. és 4. tab). Mindkettőnél 2-2 pont szerezhető, így ha ezeket megcsináljátok (2 hét múlva kell leadni mindkettőt (nov. 30)) akkor már ezen felül csak egy darab kisbeadandó kell mindekinek a megajánlott 3-ashoz. A 4-esért és 5-ösért majd egy webes alkalmazást kell csinálni, az elmúlt két óra anyaga ez volt. Ezekhez még a mai este folyamán fog kikerülni leírás. A témája a webes alkalmazásnak szabadon választható. A leadási határideje annak 2018. jan. 15 lesz.
+ 
 
 1.-2.gyak jegyzetek:  
 -----------------------
